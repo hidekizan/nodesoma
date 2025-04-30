@@ -12,3 +12,4 @@ while(n!=0){
 }
 
 console.log(`Total = ${total}`);
+console.log(total);
